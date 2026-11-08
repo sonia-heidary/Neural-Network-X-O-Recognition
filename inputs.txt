@@ -1,0 +1,2 @@
+inputs\x.txt
+inputs\o.txt
